@@ -8,7 +8,7 @@ databases. The objectives of the application are to provide insights into the
 dataset, facilitate data exploration, and demonstrate the integration of
 different database technologies.
 
-**Demo**: [Demo video](https://mediaspace.illinois.edu/media/t/1_n8d9tzz6)
+
 
 **Installation**: Install the required packages specified in the requirement.txt
 file through the following command:  
@@ -144,9 +144,5 @@ def get_keywords(self):
     return keywords
 ```
 
-**Extra-Credit Capabilities**
 
-**Contributions**
-- Minghao Lin: completed widget 3, 4, 6; implemented database techniques; recorded video; readme; Time Spent: 30 ~ 35 hours
 
-- Yawen Wang: completed widget 1, 2, 5; implemented database techniques; readme; Time Spent: 30 ~ 35 hours
