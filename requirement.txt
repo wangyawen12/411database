@@ -1,0 +1,9 @@
+dash
+dash-ag-grid
+dash-bootstrap-components
+mysql-connector-python
+pymongo
+neo4j
+matplotlib
+pandas
+plotly
